@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradeepkarn
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning fullstack web development
+- 🌱 I’m fullstack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
